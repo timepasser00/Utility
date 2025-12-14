@@ -18,3 +18,13 @@ Copy and run this one-liner in your terminal. It downloads the script to your sy
    * **b. Instant Templates:** Just type `cp` and press **Enter** to instantly get the C++ template.
    * **c. I/O Handling:** Automatically creates `input.txt` and `output.txt` for local testing.
    * **d. Quick Run:** Press `Cmd + Shift + B` (or `Ctrl + Shift + B`) to open the dropdown and select **"Compile and Run"**.
+
+
+## Running Instructions
+
+### Competitive Programming Setup
+
+1. Navigate to the directory where you want to set up your competitive programming environment.
+2. Run the command `beast`. Enter your password when prompted. This will create a folder named `cpp`.
+3. Run the command `contest <contest_name>`. This creates a folder named `<contest_name>` containing empty files: `A.cpp`, `B.cpp`, `C.cpp`, and `D.cpp`.
+4. Type `cp` and press `Enter` to start coding.

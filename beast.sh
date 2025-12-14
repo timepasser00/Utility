@@ -14,6 +14,6 @@ curl -LSO https://raw.githubusercontent.com/timepasser00/Utility/refs/heads/main
 curl -LSO https://raw.githubusercontent.com/timepasser00/Utility/refs/heads/main/.vscode/cp.json.code-snippets
 
 
-sudo curl -L https://raw.githubusercontent.com/timepasser00/Utility/refs/heads/main/contest.sh -o /usr/local/bin/contest.sh
+sudo curl -L https://raw.githubusercontent.com/timepasser00/Utility/refs/heads/main/contest.sh -o /usr/local/bin/contest
 
-sudo chmod +x /usr/local/bin/contest.sh
+sudo chmod +x /usr/local/bin/contest
